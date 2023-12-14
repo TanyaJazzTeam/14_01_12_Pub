@@ -1,7 +1,5 @@
 # Using TFF for Federated Learning Research
 
-## Overview ds
-
 TFF is an extensible, powerful framework for conducting federated learning (FL)
 research by simulating federated computations on realistic proxy datasets. This
 page describes the main concepts and components that are relevant for research
