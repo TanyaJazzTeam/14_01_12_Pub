@@ -4,7 +4,9 @@
       "name": "Europa",
       "countres": [
         {
+          "name": "Bielorrusia",
           "capital": "Minsk",
+          "population": "9,5 millones",
           "bool": "FALSO"
         },
         {
