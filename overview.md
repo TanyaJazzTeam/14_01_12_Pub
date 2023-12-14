@@ -18,8 +18,6 @@ developments that cannot be integrated into core TensorFlow
 
 ## Installation
 
-# hhh
-
 #### Stable Builds
 To install the latest version, run the following:
 
